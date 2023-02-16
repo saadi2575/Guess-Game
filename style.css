@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(80, 67, 67);
+}
+.container{
+
+    margin-top: 100px;
+    text-align: center;
+    border: 4px black;
+}
+p{
+    font-size: 27px;
+}
+.container div {
+    color: black;
+    width: 70%;
+    margin-left: 15%;
+}
+div p {
+    color: black;
+}
+div label{
+    color: black;
+}
+div span {
+    color:black;
+    margin-bottom: 50px;
+}
+.result_secton p {
+    margin: 5% 25% 5% 25%;
+}
